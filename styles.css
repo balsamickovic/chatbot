@@ -5,8 +5,8 @@
   background-size: cover;
 }
 
-/* Remove Botpress logos */
-.chat-header .botpress-logo,
-.chat-header .botpress-logo-small {
-  display: none;
+.bpw-powered {
+  display: none ;
 }
+
+
