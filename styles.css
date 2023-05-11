@@ -1,7 +1,7 @@
 /* Set the height, position, border, border-radius, and z-index of the chatbot widget */
 .bpw-layout {
-  height: 500px;
-  position: fixed;
+  height: 1000px;
+  position: center;
   bottom: 0;
   right: 20px;
   border: 1px solid #ccc;
